@@ -22,6 +22,8 @@
 #ifndef MARLIN_H
 #define MARLIN_H
 
+#include <Arduino.h>
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
